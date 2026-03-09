@@ -1,4 +1,4 @@
-package com.angelim.itauTesteTecnico;
+package com.angelim.itauTesteTecnico.Transacao;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -10,7 +10,7 @@ import java.time.OffsetDateTime;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class TransacaoRequest {
+public class Transacao {
 
     private BigDecimal valor;
     private OffsetDateTime dataHora;

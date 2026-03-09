@@ -1,4 +1,4 @@
-package com.angelim.itauTesteTecnico;
+package com.angelim.itauTesteTecnico.Estatistica;
 
 import lombok.Getter;
 
